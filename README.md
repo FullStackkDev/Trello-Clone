@@ -1,4 +1,4 @@
-Trello Clone using React, Redux-Toolkit, FireBase.
+# Trello Clone using React, Redux-Toolkit, FireBase.
 
 Full Functional with all add del move cards and tasks functionality.
 
